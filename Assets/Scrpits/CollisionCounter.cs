@@ -13,6 +13,7 @@ public class CollisionCounter : MonoBehaviour
     void OnCollisionEnter(Collision collision)
     {
         counter--;
+        Debug.Log("Counter: " + counter);
         GetComponent<Text>().text = counter.ToString();
     }
 }

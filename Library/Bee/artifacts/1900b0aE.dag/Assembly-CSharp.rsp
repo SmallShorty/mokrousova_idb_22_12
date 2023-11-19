@@ -345,7 +345,8 @@
 -r:"Library/Bee/artifacts/1900b0aE.dag/UnityEngine.UI.ref.dll"
 "Assets/Scrpits/ChangeColor.cs"
 "Assets/Scrpits/CollisionCounter.cs"
-"Assets/Scrpits/ForCube.cs"
+"Assets/Scrpits/Counter.cs"
+"Assets/Scrpits/GUICounter.cs"
 -langversion:9.0
 
 /deterministic
